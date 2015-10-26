@@ -1,0 +1,42 @@
+Testing hub
+
+
+
+//
+//  ViewController.swift
+//  oefenen week 1
+//
+//  Created by Nienke Pot on 26-10-15.
+//  Copyright © 2015 Nienke Pot. All rights reserved.
+//
+
+import UIKit
+
+class ViewController: UIViewController {
+
+    @IBOutlet weak var namelabel: UILabel!
+    
+    @IBOutlet weak var inputname: UITextField!
+    
+    @IBAction func button(sender: AnyObject) {
+        
+        namelabel.text = "Hello,\(inputname.text!)"
+    }
+    
+    override func viewDidLoad() {
+        super.viewDidLoad()
+        
+        namelabel.text = "Enter a name"
+        
+        
+        // Do any additional setup after loading the view, typically from a nib.
+    }
+
+    override func didReceiveMemoryWarning() {
+        super.didReceiveMemoryWarning()
+        // Dispose of any resources that can be recreated.
+    }
+
+
+}
+
