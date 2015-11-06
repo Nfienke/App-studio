@@ -6,6 +6,7 @@ A game where the player needs to guess a word letter by letter, but the computer
 
 Features:
 
+
 -3 main options in menu: Play evil hangman, play nice hangman and high score
 -resume game also in main menu if there is a game unfinished
 -the logo in the upper left corner will bring the player back to the main menu
