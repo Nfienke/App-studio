@@ -17,7 +17,7 @@ Features:
 -a guess button can be pressed when the guessed letter is entered in the textfield.
 - there are 2 high score list one for the evil hangman and one for the nice hangman, showing ranking and number of points. 
 
-(hand drawn sketches kan ik niet inleveren via github)
+![](images/sk1.png?raw=true)
 
 
 
