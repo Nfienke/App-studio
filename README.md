@@ -7,7 +7,7 @@ A game where the player needs to guess a word letter by letter, but the computer
 Features:
 
 
--3 main options in menu: Play evil hangman, play nice hangman and high score
+- 3 main options in menu: Play evil hangman, play nice hangman and high score
 -resume game also in main menu if there is a game unfinished
 -the logo in the upper left corner will bring the player back to the main menu
 -the number of points are shown during the entire game
@@ -17,6 +17,7 @@ Features:
 -a guess button can be pressed when the guessed letter is entered in the textfield.
 - there are 2 high score list one for the evil hangman and one for the nice hangman, showing ranking and number of points. 
 
+(hand drawn sketches kan ik niet inleveren via github)
 
 
 
